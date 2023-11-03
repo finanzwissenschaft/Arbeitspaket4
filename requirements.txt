@@ -1,0 +1,4 @@
+ipywidgets
+matplotlib
+numpy
+voila>=0.1.8
